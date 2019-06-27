@@ -1,4 +1,6 @@
 {
+  "posts": [
+    {
   "basicComponents": [
     {
       "type": "phone",
@@ -247,4 +249,9 @@
       }
     }
   ]
+}
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
